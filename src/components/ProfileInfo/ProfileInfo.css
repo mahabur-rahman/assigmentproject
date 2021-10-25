@@ -1,0 +1,57 @@
+/* profile heading */
+
+select {
+    border-radius: 5px;
+    width: 90%;
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.container-user-info .user-info-row {
+    justify-content: flex-start;
+    margin-bottom: 0.5rem;
+    padding: 1.75rem 1rem;
+    border-radius: 5px;
+}
+
+.container-user-info .user-info-row-bg {
+    background-color: rgb(248, 248, 248);
+}
+
+.container-user-info .border-no-bg {
+    border: 1px solid rgb(240, 240, 240);
+}
+
+.user-info-row .user-info-col {
+    width: 100%;
+}
+
+.user-info-col .user-info-field {}
+
+.user-info-col .btn-user-info {
+    margin: 0 auto;
+    display: block;
+    color: rgb(0, 0, 104);
+    padding: 0.75rem 1.75rem;
+    border-radius: 4px;
+    font-weight: 600;
+    border: transparent;
+    background-color: rgb(240, 240, 240);
+    font-size: 0.9rem;
+    cursor: pointer;
+    width: 70%;
+}
+
+.user-info-col .btn-user-info:active {
+    background-color: rgb(231, 231, 231);
+}
+
+.user-info-col .btn-heading {
+    color: rgb(0, 0, 104);
+    background-color: transparent;
+}
+
+.heading-container-user-info {
+    font-size: 1.07rem;
+    font-weight: 600;
+}

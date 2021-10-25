@@ -1,0 +1,25 @@
+.heading-main .heading {
+  margin: 0.5rem auto;
+}
+
+.heading-userLists-main {
+  justify-content: space-between;
+}
+
+.heading-userLists-main .btn-add-user {
+  padding: 0.5rem 1rem;
+  background-color: rgb(75, 75, 75);
+  color: #fff;
+  border: transparent;
+  border-radius: 100px;
+  font-weight: 600;
+  text-transform: capitalize;
+  cursor: pointer;
+}
+.btn-add-user span {
+  margin: 0 0.5rem;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
